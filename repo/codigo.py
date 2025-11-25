@@ -1,0 +1,4 @@
+nombre= "hola"
+apellido= "victor"
+saludo= nombre + " " + apellido +"como estás"
+print(saludo)
